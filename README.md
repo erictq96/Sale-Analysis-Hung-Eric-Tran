@@ -1,5 +1,5 @@
 # Sale-Analysis-Hung-Eric-Tran
-## Steps
+## Information
 1. Merge all 12 months data into one Master Data (all_data.csv)
 2. Cleaning Data
 - Drop NaN values rows from DataFrame
