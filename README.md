@@ -12,8 +12,8 @@
 - What products are most often sold together?
 - What product sold the most? What are possible reasons for its highest number of orders?
 4. Check out Jupiter Notebook for details analysis (Hung Eric Tran Sale Analysis.ipynb)
-## Contacts
+## Authors
 - Hung "Eric" Tran
 - 347-640-0319
-- erictq96@gmail.com
+- erictq96@gmail.com or tranhu06@gmail.com
 - https://www.linkedin.com/in/erictq96/
